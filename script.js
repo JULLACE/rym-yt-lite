@@ -20,7 +20,6 @@
             item.href = `https://youtube-lite.js.org/#/${item.href.match(YTregex)}`;
             observer.disconnect();
         }
-        console.log('runnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn');
     };
 
     const observer = new MutationObserver(() => {
