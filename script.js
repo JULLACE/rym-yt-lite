@@ -5,6 +5,7 @@
 // @description  Replace YouTube links with YouTube-Lite links
 // @author       JULLACE
 // @match        https://rateyourmusic.com/song/*
+// @match        https://rateyourmusic.com/release/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rateyourmusic.com
 // @grant        none
 // ==/UserScript==
